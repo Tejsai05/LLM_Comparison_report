@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+openai
+google-generativeai
+huggingface_hub
